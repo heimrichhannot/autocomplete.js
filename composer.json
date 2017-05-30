@@ -1,0 +1,23 @@
+{
+  "name": "heimrichhannot/autocomplete.js",
+  "description": "Fast and full-featured autocomplete library https://www.algolia.com",
+  "type": "component",
+  "homepage": "https://github.com/algolia/autocomplete.js",
+  "license": "MIT",
+  "extra": {
+    "component": {
+      "name": "autocomplete.js",
+      "scripts": [
+        "autocomplete.min.js"
+      ],
+      "files": [
+        "autocomplete.min.js",
+        "autocomplete.js",
+        "autocomplete.jquery.js",
+        "autocomplete.jquery.min.js",
+        "autocomplete.angular.min.js",
+        "autocomplete.angular.js"
+      ]
+    }
+  }
+}
